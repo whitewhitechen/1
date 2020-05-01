@@ -1,4 +1,4 @@
-## 心怡，但故事的最后你还是说了拜拜
+# 心怡，但故事的最后你还是说了拜拜
 
 You can use the [editor on GitHub](https://github.com/whitewhitechen/1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
